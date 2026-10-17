@@ -1,7 +1,6 @@
 name: Validação Movement
 
 on:
-on:
   push:
     branches: [develop, test, main]
 
